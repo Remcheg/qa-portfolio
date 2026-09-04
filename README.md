@@ -5,10 +5,13 @@
 ## Структура проекта
 
 ### 📁 test-cases/
-- **registration.md** — Тест-кейсы для формы регистрации (позитивные и негативные сценарии)
+- [registration.md](test-cases/registration.md) — Тест-кейсы для формы регистрации (позитивные и негативные сценарии)
 
-###  bug-reports/
-- **incorrect-cart-quantity.md** — Баг-репорт: некорректное отображение количества товара и суммы в корзине
+### 📁 bug-reports/
+- [incorrect-cart-quantity.md](bug-reports/incorrect-cart-quantity.md) — Баг-репорт: некорректное отображение количества товара и суммы в корзине
+
+### 📁 checklists/
+- [shopping-cart.md](checklists/shopping-cart.md) — Чек-лист для smoke- и регрессионного тестирования корзины интернет-магазина
 
 ## Навыки
 
