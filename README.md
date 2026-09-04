@@ -1,38 +1,22 @@
-# QA Portfolio
+# QA Portfolio — Рэм
 
-My QA testing portfolio.
+Это портфолио содержит примеры тестовой документации, созданной в процессе обучения тестированию ПО.
 
-## About
+## Структура проекта
 
-I'm learning software testing and building practical QA skills through hands-on projects.
+### 📁 test-cases/
+- **registration.md** — Тест-кейсы для формы регистрации (позитивные и негативные сценарии)
 
-## Skills
+###  bug-reports/
+- **incorrect-cart-quantity.md** — Баг-репорт: некорректное отображение количества товара и суммы в корзине
 
-- Manual testing
-- Test case design
-- Bug reporting
-- Boundary Value Analysis
-- Equivalence Partitioning
-- Positive and Negative Testing
-- Severity and Priority
+## Навыки
 
-## Projects
+- Написание тест-кейсов и чек-листов
+- Составление баг-репортов
+- Тест-дизайн (Boundary Value Analysis, Equivalence Partitioning)
+- Классификация дефектов (Severity / Priority)
 
-### E-commerce Testing
+## Контакты
 
-Testing of an online store, including:
-
-- Registration
-- Shopping cart
-- Product quantity validation
-- Boundary value testing
-- Equivalence partitioning
-- Bug reports
-
-## Test Artifacts
-
-- Test cases
-- Checklists
-- Bug reports
-- Test design techniques
-- Test documentation
+- GitHub: [@Remcheg](https://github.com/Remcheg)
