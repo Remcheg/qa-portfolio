@@ -13,6 +13,9 @@
 ### 📁 checklists/
 - [shopping-cart.md](checklists/shopping-cart.md) — Чек-лист для smoke- и регрессионного тестирования корзины интернет-магазина
 
+### 📁 web-testing/
+- [devtools-investigation.md](web-testing/devtools-investigation.md) — Пример анализа UI и сетевых запросов с помощью Chrome DevTools
+
 ## Навыки
 
 - Написание тест-кейсов и чек-листов
