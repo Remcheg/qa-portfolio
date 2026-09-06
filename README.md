@@ -10,14 +10,17 @@
 ### 📁 bug-reports/
 - [incorrect-cart-quantity.md](bug-reports/incorrect-cart-quantity.md) — Баг-репорт: некорректное отображение количества товара и суммы в корзине (с оценкой Severity и Priority)
 
-### 📁 checklists/
+###  checklists/
 - [shopping-cart.md](checklists/shopping-cart.md) — Чек-лист для быстрого smoke- и регрессионного тестирования корзины интернет-магазина
 
-### 📁 web-testing/
+###  web-testing/
 - [devtools-investigation.md](web-testing/devtools-investigation.md) — Пример анализа DOM-дерева и сетевых запросов с помощью Chrome DevTools
 
 ### 📁 api-testing/
 - [postman-examples.md](api-testing/postman-examples.md) — Примеры тестирования REST API (методы GET/POST, коды ответов HTTP, анализ JSON и работа с mock-серверами)
+
+### 📁 sql/
+- [basic-queries-cheatsheet.md](sql/basic-queries-cheatsheet.md) — Шпаргалка по базовым SQL-запросам (SELECT, WHERE, JOIN) для проверки данных в БД
 
 ## 🛠️ Навыки
 
@@ -26,6 +29,7 @@
 - Классификация дефектов: понимание и обоснование Severity и Priority
 - Веб-тестирование: использование Chrome DevTools (вкладки Elements, Network, Console)
 - Основы API: понимание REST, HTTP-методов (GET, POST), кодов состояния (200, 400, 500) и структуры JSON
+- Базовый SQL: написание запросов (SELECT, WHERE, JOIN) для проверки целостности данных в БД
 
 ## 📬 Контакты
 
